@@ -1,12 +1,3 @@
-# 欢迎来到 QPet Lover GitHub 组织！
+# Profile
 
-这是一个自发组织的账号，旨在整合资源，方便大家一起贡献。
-
-账号致力于收集和整理 Q 宠资源，开发还原一些 Q 宠项目，或者为它们增添新的色彩。
-
-如果你也怀念那些年陪伴我们的 QQ 宠物，并希望通过一些项目让它们再次焕发光彩，欢迎加入！一起创造更多有趣且充满回忆的项目。
-
-## 交流方式
-任何问题或建议，欢迎通过 [QQ 宠物贴吧](https://tieba.baidu.com/f?kw=qq%E5%AE%A0%E7%89%A9) 或者邮件联系：
-
-- Email: qpetlover@outlook.com
+Description about QPet Lover.
